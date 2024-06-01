@@ -4,9 +4,9 @@
 
 🔧 Na moim GitHubie znajdziesz projekty związane z:
 
-Automatyką i robotyką
-Algorytmami i strukturami danych
-Projektami uczelnianymi
+* Automatyką i robotyką
+* Algorytmami i strukturami danych
+* Projektami uczelnianymi
 
 🌱 Obecnie pogłębiam swoją wiedzę z zakresu sztucznej inteligencji i uczenia maszynowego, aby móc wdrażać nowoczesne rozwiązania w dziedzinie automatyki.
 
