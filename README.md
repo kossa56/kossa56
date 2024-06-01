@@ -10,6 +10,6 @@
 
 🌱 Obecnie pogłębiam swoją wiedzę z zakresu sztucznej inteligencji i uczenia maszynowego, aby móc wdrażać nowoczesne rozwiązania w dziedzinie automatyki.
 
-📫 Możesz się ze mną skontaktować poprzez [LinkedIn]((https://www.linkedin.com/in/michał-kossakowski-28189b241/) lub wysyłając wiadomość na email: M.Kossakowski04@wp.pl
+📫 Możesz się ze mną skontaktować poprzez [LinkedIn](https://www.linkedin.com/in/michał-kossakowski-28189b241/) lub wysyłając wiadomość na email: M.Kossakowski04@wp.pl
 
 🚀 Czekam na współpracę i nowe wyzwania!
